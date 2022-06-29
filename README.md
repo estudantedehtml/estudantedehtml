@@ -1,4 +1,6 @@
-!!Seja Bem Vindo a esta conta!! 😁
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!Me+chamo+Mauricio;Seja+bem+vindo+a+está+conta!!)](https://git.io/typing-svg)
 
 👉
 [
@@ -10,7 +12,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudantedehtml&theme=synthwave&show_icons=true)
 
-<h1><strong>Métodos de Uso</strong></h1>
+<h4><strong>Atualmente, estudando :</strong></h4>
+
 
 <div style="display: inline_block;"<br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,7 +21,16 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div
 
-Estou em teinamento para realizar mu sonho na carreira de fullstack!!👋 
+
+  <div align="center">
+<br><h1 align="center"><b>Número de Visitantes</b></h1>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{estudantedehtml}/count.svg"/></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+
+Estou em teinamento para realizar meu sonho na carreira de fullstack!!👋 
 
 
 
