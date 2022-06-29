@@ -12,7 +12,7 @@
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauriciopedrorocha/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudantedehtml&theme=synthwave&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estudantedehtml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estudantedehtml)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4><strong>Atualmente, estudando :</strong></h4>
 
@@ -33,13 +33,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
 
 Estou em teinamento para realizar meu sonho na carreira de fullstack!!👋 
-
-
-
-
-
-
-
-
-
 
