@@ -8,7 +8,7 @@
  👉[
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauriciopedrorocha/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudantedehtml&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudantedehtml&theme=synthwave&show_icons=true)
 
 <h1><strong>Métodos de Uso</strong></h1>
 
