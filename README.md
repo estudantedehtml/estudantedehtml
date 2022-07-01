@@ -11,6 +11,8 @@
  👉[
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauriciopedrorocha/)
 
+👉<img src="QRCode_Fácil (2) (1).png">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudantedehtml&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estudantedehtml)](https://github.com/anuraghazra/github-readme-stats)
 
