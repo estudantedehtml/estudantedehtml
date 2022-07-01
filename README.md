@@ -13,6 +13,8 @@
  
 👉<img src="QRCode_Fácil (2) (1).png"> 
  👉<img src="QRCode_Fácil (1) (1).png">
+  👉<img src="QRCode_Fácil (1) (1).png">
+ 
 
 
 
