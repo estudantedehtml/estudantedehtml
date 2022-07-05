@@ -11,9 +11,7 @@
  👉[
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauriciopedrorocha/)
  
-👉<img src="QRCode_Fácil (2) (1).png"> 
- 👉<img src="QRCode_Fácil (1) (1).png">
-  👉<img src="QRCode_Fácil (3) (1).png">
+
  
 
 
